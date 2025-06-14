@@ -1,0 +1,11 @@
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\bin\Debug\KursR126416.exe.config
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\bin\Debug\KursR126416.exe
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\bin\Debug\KursR126416.pdb
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.csproj.AssemblyReference.cache
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.Properties.Resources.resources
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.csproj.GenerateResource.cache
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.csproj.CoreCompileInputs.cache
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.exe
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.pdb
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.Form1.resources
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Програмиране и структури от данни\KursR126416\KursR126416\obj\Debug\KursR126416.Form2.resources
